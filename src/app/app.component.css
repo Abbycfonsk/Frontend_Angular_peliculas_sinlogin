@@ -1,0 +1,12 @@
+main {width: 70%;margin: auto; max-width: 1300px;}
+
+
+nav.navbar {
+  position: sticky;
+  top:0px;
+  z-index: 99;
+}
+
+.logout {cursor: pointer;}
+
+h4 {text-align:center}
